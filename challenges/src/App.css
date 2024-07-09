@@ -1,0 +1,11 @@
+.progress-bar{
+background-color: grey;
+width: 400px;
+border-radius: 4px;
+}
+
+.progress{
+background-color: pink;
+border-radius: 4px;
+transition: .5s ease;
+}
